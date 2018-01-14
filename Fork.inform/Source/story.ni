@@ -1,2 +1,8 @@
 "Fork" by Jethro
 
+When play begins: say "[italic type]You are once again lost in a jungle far from home. You are ready to give up and go home, disappointed in yet another failed archaeological expedition. Just as you decide to turn back to camp, you suddenly stumble upon something...[roman type]". The Forest is a room. "You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward."
+A mushroom is  here. It is a container. It is edible. "A polka-dotted mushroom pokes out of the moist soil. It is possibly scrumptious." The description is "[if we have not examined the mushroom]Upon further examination, you decide that, while possibly scrumptious, it is also possibly a toadstool. You should examine it further[otherwise]Now that you look at it again, you can see clearly that it is a toadstool; a nasty looking one, at that[end if]."
+After taking the mushroom:
+say "[if we have not taken the mushroom] You deftly snap the mushroom's stalk, and pluck the hapless fungus from its natural habitat."
+After dropping the mushroom: say "You discard the abused mushroom to the ground like a used facial tissue."
+After eating the mushroom: say "You pop the scrumptulescent mushroom treat into your mouth. It tastes like fungal-flavored candy. The gastronomical delight turns out to be a toadstool, and you succumb to its choking, asphyxiating aftertaste.";  end the story saying "You have died".
