@@ -1,12 +1,12 @@
 Debugging log of Inform 7
-Inform called as: /usr/lib/x86_64-linux-gnu/gnome-inform7/ni -internal /usr/share/gnome-inform7 -format=ulx -project /home/minad/Github/Interactive-Fiction/Fork.inform
-Found language bundle 'French' (built in)
-Found language bundle 'Italian' (built in)
+Inform called as: C:\Program Files (x86)\Inform 7\Compilers\ni -internal C:\Program Files (x86)\Inform 7\Internal -project C:\Users\Jethro\Documents\GitHub\Interactive-Fiction\Fork.inform -format=ulx
 Found language bundle 'English' (built in)
+Found language bundle 'French' (built in)
 Found language bundle 'German' (built in)
+Found language bundle 'Italian' (built in)
 Found language bundle 'Spanish' (built in)
 Found language bundle 'Swedish' (built in)
-Reading language definition from </usr/share/gnome-inform7/Languages/English/Syntax.preform>
+Reading language definition from <C:\Program Files (x86)\Inform 7\Internal\Languages\English\Syntax.preform>
 720 declarations read (14183 words)
 
 
@@ -14,7 +14,7 @@ Reading language definition from </usr/share/gnome-inform7/Languages/English/Syn
 Phase I ... Lexical analysis
 -----------------------------------------------------
 
-I've now read your source text, which is 267 words long.
+I've now read your source text, which is 348 words long.
 
 
 -----------------------------------------------------
@@ -175,7 +175,7 @@ Phase XIII ... Compilation now complete
 -----------------------------------------------------
 
 Total of 103 files written as streams.
-CPU time: 101 centiseconds
+CPU time: 2901 centiseconds
 
 
 That concludes the debugging log from this run of Inform.
