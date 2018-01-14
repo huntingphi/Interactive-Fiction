@@ -10,7 +10,7 @@ release to "/home/minad/Github/Interactive-Fiction/Fork.materials/Release"
 
 ! Blorb instructions
 
-storyfile leafname "Fork.gblorb"
+storyfile leafname "Drone Wars.gblorb"
 storyfile "/home/minad/Github/Interactive-Fiction/Fork.inform/Build/output.ulx" include
 ifiction "/home/minad/Github/Interactive-Fiction/Fork.inform/Metadata.iFiction" include
 cover "/usr/share/gnome-inform7/Miscellany/Cover.jpg"
@@ -21,7 +21,7 @@ picture 1 "/usr/share/gnome-inform7/Miscellany/Cover.jpg"
 placeholder [IFID] = "F8E4CA02-F8A5-11E7-99F7-4C3488145587"
 placeholder [RELEASE] = "1"
 placeholder [YEAR] = "2018"
-placeholder [TITLE] = "Fork"
+placeholder [TITLE] = "Drone Wars"
 placeholder [AUTHOR] = "Jethro"
 placeholder [BLURB] = "A work of interactive fiction."
 
