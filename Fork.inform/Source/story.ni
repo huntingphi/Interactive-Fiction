@@ -15,4 +15,23 @@ The self destruct button is a device on the boulder. "[if switched off] Who know
 After switching on the button:
 say "You press the button and instantly vapourize into thin air." ; end the story.
 
-Hoverboard is a container. Hoverboard is enterable.
+In the forest inn is a vehicle called hoverboard. It is pushable between rooms.
+After entering hoverboard:
+say "The hoverboard sinks ever-so-slightly under  your weight and you feel the vibration of the engine under your feet."
+
+In the forest inn is a woman called Jezebel.
+In the forest is a man called Adam. A gift is carried by Adam.
+In the forest is a dagger, a dildo and a rope.
+The carrying capacity of the player is 3.
+Disease is a kind of thing.
+HIV is a disease.
+HIV is carried by forest fiend.
+A forest fiend wears fur.
+A forest fiend is here.
+Golden amulet is here.
+Golden amulet is wearable.
+The magic backpack is a player's holdall.
+
+Stabbing is an action applying to one thing. Understand "stab [something]" as stabbing.
+Before stabbing the forest fiend: say "You stab the forest fiend. The blood pours down the dagger and onto your hand."; Forest fiend puts HIV in Forest.
+After stabbing the forest fiend: HIV is taken by player.
