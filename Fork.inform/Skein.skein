@@ -1,2371 +1,817 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Skein rootNode="node-0x2b74700" xmlns="http://www.logicalshift.org.uk/IF/Skein">
-  <generator>Inform 7</generator>
-  <activeNode nodeId="node-0x7f5a34602d60"/>
-  <item nodeId="node-0x2b74700">
+<Skein rootNode="node-1">
+  <generator>Windows Inform 7 6M62</generator>
+  <activeNode nodeId="node-95"/>
+  <item nodeId="node-1">
     <command xml:space="preserve">Fork</command>
-    <result xml:space="preserve">
-
-
-You have once again lost in a drone war against your friend. You are ready to give up and go home, disappointed in yet another failed attempt at luring and attacking him from behind. Just as you decide to give up your wings for good, you friend offers you a hand up...
-Drone Wars
-An Interactive Fiction by Jethro
-Release 1 / Serial number 180115 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
-
-Forest
-You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
-
-A low flying drone pokes out behind some green grass.
-
- Who knows what would happen if this mysterious button were pressed. 
-
-Andrew&apos;s drone sits superior on a large boulder infront of the leaves. You look at the drone in envy and at yours with scorn.
-
-On the boulder is Invisible shield (closed) (in which is Andrew&apos;s drone).
-
-You can also see the cloud, Forest Barrier, Adam, a dagger, a dildo, a rope, a forest fiend and Golden amulet here.
-
-&gt;</result>
+    <result xml:space="preserve">You have once again lost in a drone war against your friend. You are ready to give up and go home, disappointed in yet another failed attempt at luring and attacking him from behind. Just as you decide to give up your wings for good, you friend offers you a hand up...&#x000A;Drone Wars&#x000A;An Interactive Fiction by Jethro&#x000A;Release 1 / Serial number 180115 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;Forest&#x000A;You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.&#x000A;&#x000A;A low flying drone pokes out behind some green grass.&#x000A;&#x000A; Who knows what would happen if this mysterious button were pressed. &#x000A;&#x000A;Andrew's drone sits superior on a large boulder infront of the leaves. You look at the drone in envy and at yours with scorn.&#x000A;&#x000A;On the boulder is Invisible shield (closed) (in which is Andrew's drone).&#x000A;&#x000A;You can also see the cloud, Forest Barrier, Adam, a dagger, a dildo, a rope, forest fiend and Golden amulet here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
     <changed>NO</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x2b74880"/>
-      <child nodeId="node-0x330e2c0"/>
-      <child nodeId="node-0x330e740"/>
-      <child nodeId="node-0x330ed40"/>
-      <child nodeId="node-0x33384b0"/>
-      <child nodeId="node-0x3338930"/>
-      <child nodeId="node-0x3376160"/>
-      <child nodeId="node-0x33768e0"/>
-      <child nodeId="node-0x33a0130"/>
-      <child nodeId="node-0x33a0430"/>
-      <child nodeId="node-0x33a0a30"/>
-      <child nodeId="node-0x33a0bb0"/>
-      <child nodeId="node-0x33dd340"/>
-      <child nodeId="node-0x33dd4c0"/>
-      <child nodeId="node-0x33dd940"/>
-      <child nodeId="node-0x341f620"/>
-      <child nodeId="node-0x341fda0"/>
-      <child nodeId="node-0x341ff20"/>
-      <child nodeId="node-0x7f5a340ca770"/>
-      <child nodeId="node-0x7f5a3421e340"/>
-      <child nodeId="node-0x7f5a343ca750"/>
-      <child nodeId="node-0x7f5a343cabd0"/>
-      <child nodeId="node-0x7f5a34602760"/>
-      <child nodeId="node-0x7f5a346028e0"/>
-      <child nodeId="node-0x7f5a34602a60"/>
+      <child nodeId="node-2"/>
+      <child nodeId="node-25"/>
+      <child nodeId="node-28"/>
+      <child nodeId="node-32"/>
+      <child nodeId="node-36"/>
+      <child nodeId="node-39"/>
+      <child nodeId="node-44"/>
+      <child nodeId="node-49"/>
+      <child nodeId="node-54"/>
+      <child nodeId="node-56"/>
+      <child nodeId="node-60"/>
+      <child nodeId="node-61"/>
+      <child nodeId="node-65"/>
+      <child nodeId="node-70"/>
+      <child nodeId="node-73"/>
+      <child nodeId="node-78"/>
+      <child nodeId="node-84"/>
+      <child nodeId="node-92"/>
     </children>
   </item>
-  <item nodeId="node-0x2b74880">
+  <item nodeId="node-2">
     <command xml:space="preserve">l</command>
-    <result xml:space="preserve">Forest
-You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
-
-A low flying drone pokes out behind some green grass.
-
- Who knows what would happen if this mysterious button were pressed. 
-
-Andrew&apos;s drone sits superior on a large boulder infront of the leaves. You look at the drone in envy and at yours with scorn.
-
-On the boulder is Invisible shield (closed) (in which is Andrew&apos;s drone).
-
-You can also see the cloud and Forest Barrier here.
-
-&gt;</result>
+    <result xml:space="preserve">Forest&#x000A;You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.&#x000A;&#x000A;A low flying drone pokes out behind some green grass.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x2b74a00"/>
-      <child nodeId="node-0x32d0d40"/>
+      <child nodeId="node-3"/>
     </children>
   </item>
-  <item nodeId="node-0x2b74a00">
+  <item nodeId="node-3">
     <command xml:space="preserve">x entryway</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x2b74b80"/>
+      <child nodeId="node-4"/>
     </children>
   </item>
-  <item nodeId="node-0x2b74b80">
+  <item nodeId="node-4">
     <command xml:space="preserve">say sigh</command>
-    <result xml:space="preserve">(to yourself)
-There is no reply.
-
-&gt;</result>
+    <result xml:space="preserve">(to yourself)&#x000A;There is no reply.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x2b74d00"/>
+      <child nodeId="node-5"/>
     </children>
   </item>
-  <item nodeId="node-0x2b74d00">
+  <item nodeId="node-5">
     <command xml:space="preserve">jump</command>
-    <result xml:space="preserve">You jump on the spot.
-
-&gt;</result>
+    <result xml:space="preserve">You jump on the spot.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x2b74e80"/>
+      <child nodeId="node-6"/>
     </children>
   </item>
-  <item nodeId="node-0x2b74e80">
+  <item nodeId="node-6">
     <command xml:space="preserve">walk</command>
-    <result xml:space="preserve">You&apos;ll have to say which compass direction to go in.
-
-&gt;</result>
+    <result xml:space="preserve">You'll have to say which compass direction to go in.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32a7110"/>
+      <child nodeId="node-7"/>
     </children>
   </item>
-  <item nodeId="node-0x32a7110">
+  <item nodeId="node-7">
     <command xml:space="preserve">w s</command>
-    <result xml:space="preserve">I only understood you as far as wanting to (go) w.
-
-&gt;</result>
+    <result xml:space="preserve">I only understood you as far as wanting to (go) w.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32a7290"/>
+      <child nodeId="node-8"/>
     </children>
   </item>
-  <item nodeId="node-0x32a7290">
+  <item nodeId="node-8">
     <command xml:space="preserve">s</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32a7410"/>
+      <child nodeId="node-9"/>
     </children>
   </item>
-  <item nodeId="node-0x32a7410">
+  <item nodeId="node-9">
     <command xml:space="preserve">w</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32a7590"/>
+      <child nodeId="node-10"/>
     </children>
   </item>
-  <item nodeId="node-0x32a7590">
+  <item nodeId="node-10">
     <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32a7710"/>
+      <child nodeId="node-11"/>
     </children>
   </item>
-  <item nodeId="node-0x32a7710">
+  <item nodeId="node-11">
     <command xml:space="preserve">n</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32a7890"/>
+      <child nodeId="node-12"/>
     </children>
   </item>
-  <item nodeId="node-0x32a7890">
+  <item nodeId="node-12">
     <command xml:space="preserve">cry</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32a7a10"/>
+      <child nodeId="node-13"/>
     </children>
   </item>
-  <item nodeId="node-0x32a7a10">
+  <item nodeId="node-13">
     <command xml:space="preserve">die</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32a7b90"/>
+      <child nodeId="node-14"/>
     </children>
   </item>
-  <item nodeId="node-0x32a7b90">
+  <item nodeId="node-14">
     <command xml:space="preserve">sigh</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32a7d10"/>
+      <child nodeId="node-15"/>
     </children>
   </item>
-  <item nodeId="node-0x32a7d10">
+  <item nodeId="node-15">
     <command xml:space="preserve">lol</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32a7e90"/>
+      <child nodeId="node-16"/>
     </children>
   </item>
-  <item nodeId="node-0x32a7e90">
+  <item nodeId="node-16">
     <command xml:space="preserve">sit</command>
-    <result xml:space="preserve">What do you want to sit on?
-
-&gt;</result>
+    <result xml:space="preserve">What do you want to sit on?&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32d0140"/>
+      <child nodeId="node-17"/>
     </children>
   </item>
-  <item nodeId="node-0x32d0140">
+  <item nodeId="node-17">
     <command xml:space="preserve">floor</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32d02c0"/>
+      <child nodeId="node-18"/>
     </children>
   </item>
-  <item nodeId="node-0x32d02c0">
+  <item nodeId="node-18">
     <command xml:space="preserve">sit</command>
-    <result xml:space="preserve">What do you want to sit on?
-
-&gt;</result>
+    <result xml:space="preserve">What do you want to sit on?&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32d0440"/>
+      <child nodeId="node-19"/>
     </children>
   </item>
-  <item nodeId="node-0x32d0440">
+  <item nodeId="node-19">
     <command xml:space="preserve">l</command>
-    <result xml:space="preserve">Forest
-You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
-
-&gt;</result>
+    <result xml:space="preserve">Forest&#x000A;You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32d05c0"/>
+      <child nodeId="node-20"/>
     </children>
   </item>
-  <item nodeId="node-0x32d05c0">
+  <item nodeId="node-20">
     <command xml:space="preserve">shout</command>
-    <result xml:space="preserve">I didn&apos;t understand that sentence.
-
-&gt;</result>
+    <result xml:space="preserve">I didn't understand that sentence.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32d0740"/>
+      <child nodeId="node-21"/>
     </children>
   </item>
-  <item nodeId="node-0x32d0740">
+  <item nodeId="node-21">
     <command xml:space="preserve">shout</command>
-    <result xml:space="preserve">I didn&apos;t understand that sentence.
-
-&gt;</result>
+    <result xml:space="preserve">I didn't understand that sentence.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32d08c0"/>
+      <child nodeId="node-22"/>
     </children>
   </item>
-  <item nodeId="node-0x32d08c0">
+  <item nodeId="node-22">
     <command xml:space="preserve">ask</command>
-    <result xml:space="preserve">What do you want to ask yourself for?
-
-&gt;</result>
+    <result xml:space="preserve">What do you want to ask yourself for?&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32d0a40"/>
+      <child nodeId="node-23"/>
     </children>
   </item>
-  <item nodeId="node-0x32d0a40">
+  <item nodeId="node-23">
     <command xml:space="preserve">strength</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x32d0bc0"/>
+      <child nodeId="node-24"/>
     </children>
   </item>
-  <item nodeId="node-0x32d0bc0">
+  <item nodeId="node-24">
     <command xml:space="preserve">ask strength</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x32d0d40">
-    <command xml:space="preserve">take button</command>
-    <result xml:space="preserve">Taken.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x32d0ec0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x32d0ec0">
-    <command xml:space="preserve">i</command>
-    <result xml:space="preserve">You are carrying:
-  a self destruct button
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x330e140"/>
-    </children>
-  </item>
-  <item nodeId="node-0x330e140">
-    <command xml:space="preserve">switch on button</command>
-    <result xml:space="preserve">You press the button and instantly vapourize into thin air.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-  </item>
-  <item nodeId="node-0x330e2c0">
+  <item nodeId="node-25">
     <command xml:space="preserve">open mushroom</command>
-    <result xml:space="preserve">That&apos;s already open.
-
-&gt;</result>
+    <result xml:space="preserve">That's already open.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x330e440"/>
+      <child nodeId="node-26"/>
     </children>
   </item>
-  <item nodeId="node-0x330e440">
+  <item nodeId="node-26">
     <command xml:space="preserve">close mushroom</command>
-    <result xml:space="preserve">You close the mushroom.
-
-&gt;</result>
+    <result xml:space="preserve">You close the mushroom.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x330e5c0"/>
+      <child nodeId="node-27"/>
     </children>
   </item>
-  <item nodeId="node-0x330e5c0">
+  <item nodeId="node-27">
     <command xml:space="preserve">eat mushroom</command>
-    <result xml:space="preserve">That&apos;s plainly inedible.
-
-&gt;</result>
+    <result xml:space="preserve">That's plainly inedible.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x330e740">
+  <item nodeId="node-28">
     <command xml:space="preserve">eat mushroom</command>
-    <result xml:space="preserve">(first taking the mushroom)
-You deftly snap the mushroom&apos;s stalk, and pluck the hapless fungus from its natural habitat.
-
-You pop the scrumptulescent mushroom treat into your mouth. It tastes like fungal-flavored candy. The gastronomical delight turns out to be a toadstool, and you succumb to its choking, asphyxiating aftertaste.
-
-
-
-    *** You have died ***
-
-
-
-Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
-&gt; </result>
+    <result xml:space="preserve">(first taking the mushroom)&#x000A;You deftly snap the mushroom's stalk, and pluck the hapless fungus from its natural habitat.&#x000A;&#x000A;You pop the scrumptulescent mushroom treat into your mouth. It tastes like fungal-flavored candy. The gastronomical delight turns out to be a toadstool, and you succumb to its choking, asphyxiating aftertaste.&#x000A;&#x000A;&#x000A;&#x000A;    *** You have died ***&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt; </result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x330e8c0"/>
+      <child nodeId="node-29"/>
     </children>
   </item>
-  <item nodeId="node-0x330e8c0">
+  <item nodeId="node-29">
     <command xml:space="preserve">undo</command>
-    <result xml:space="preserve">Forest
-[Previous turn undone.]
-
-&gt;</result>
+    <result xml:space="preserve">Forest&#x000A;[Previous turn undone.]&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>NO</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x330ea40"/>
+      <child nodeId="node-30"/>
     </children>
   </item>
-  <item nodeId="node-0x330ea40">
+  <item nodeId="node-30">
     <command xml:space="preserve">open mushroom</command>
-    <result xml:space="preserve">That&apos;s already open.
-
-&gt;</result>
+    <result xml:space="preserve">That's already open.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x330ebc0"/>
+      <child nodeId="node-31"/>
     </children>
   </item>
-  <item nodeId="node-0x330ebc0">
+  <item nodeId="node-31">
     <command xml:space="preserve">eat it</command>
-    <result xml:space="preserve">(first taking the mushroom)
-You eat the mushroom. Not bad.
-
-&gt;</result>
+    <result xml:space="preserve">(first taking the mushroom)&#x000A;You eat the mushroom. Not bad.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x330ed40">
+  <item nodeId="node-32">
     <command xml:space="preserve">take mushroom</command>
-    <result xml:space="preserve">You deftly snap the mushroom&apos;s stalk, and pluck the hapless fungus from its natural habitat.
-
-&gt;</result>
+    <result xml:space="preserve">You deftly snap the mushroom's stalk, and pluck the hapless fungus from its natural habitat.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x330eec0"/>
+      <child nodeId="node-33"/>
     </children>
   </item>
-  <item nodeId="node-0x330eec0">
+  <item nodeId="node-33">
     <command xml:space="preserve">drop mushroom</command>
-    <result xml:space="preserve">You deftly snap the mushroom&apos;s stalk, and pluck the hapless fungus from its natural habitat.
-
-&gt;</result>
+    <result xml:space="preserve">You deftly snap the mushroom's stalk, and pluck the hapless fungus from its natural habitat.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x33381b0"/>
+      <child nodeId="node-34"/>
     </children>
   </item>
-  <item nodeId="node-0x33381b0">
+  <item nodeId="node-34">
     <command xml:space="preserve">take mushroom</command>
-    <result xml:space="preserve">You deftly snap the mushroom&apos;s stalk, and pluck the hapless fungus from its natural habitat.
-
-&gt;</result>
+    <result xml:space="preserve">You deftly snap the mushroom's stalk, and pluck the hapless fungus from its natural habitat.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x3338330"/>
+      <child nodeId="node-35"/>
     </children>
   </item>
-  <item nodeId="node-0x3338330">
+  <item nodeId="node-35">
     <command xml:space="preserve">drop mushroom</command>
-    <result xml:space="preserve">You deftly snap the mushroom&apos;s stalk, and pluck the hapless fungus from its natural habitat.
-
-&gt;</result>
+    <result xml:space="preserve">You deftly snap the mushroom's stalk, and pluck the hapless fungus from its natural habitat.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x33384b0">
+  <item nodeId="node-36">
     <command xml:space="preserve">take drone</command>
-    <result xml:space="preserve">(the destroyer)
- You deftly grab the palm sized drone, clean the blades, and toss it into your pocket.
-
-&gt;</result>
+    <result xml:space="preserve"> You deftly grab the palm sized drone, clean the blades, and toss it into your pocket.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
+    <changed>NO</changed>
     <children>
-      <child nodeId="node-0x3338630"/>
-      <child nodeId="node-0x33387b0"/>
-      <child nodeId="node-0x7f5a340cad70"/>
+      <child nodeId="node-37"/>
+      <child nodeId="node-38"/>
     </children>
   </item>
-  <item nodeId="node-0x3338630">
+  <item nodeId="node-37">
     <command xml:space="preserve">toss drone</command>
-    <result xml:space="preserve">You toss the drone upwards and hear its motor whirl as it begins to levitate at shoulder height.
-
-&gt;</result>
+    <result xml:space="preserve">You toss the drone upwards and hear its motor whirl as it begins to levitate at shoulder height.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x33387b0">
+  <item nodeId="node-38">
     <command xml:space="preserve">i</command>
-    <result xml:space="preserve">You are carrying:
-  a drone
-
-&gt;</result>
+    <result xml:space="preserve">You are carrying:&#x000A;  a drone&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x7f5a340cad70">
-    <command xml:space="preserve">take dagger</command>
-    <result xml:space="preserve">Taken.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a340caef0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a340caef0">
-    <command xml:space="preserve">take rope</command>
-    <result xml:space="preserve">Taken.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a3421e1c0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a3421e1c0">
-    <command xml:space="preserve">i</command>
-    <result xml:space="preserve">You are carrying:
-  a rope
-  a dagger
-  a destroyer
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-  </item>
-  <item nodeId="node-0x3338930">
+  <item nodeId="node-39">
     <command xml:space="preserve">take Andrews drone</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x3338ab0"/>
+      <child nodeId="node-40"/>
     </children>
   </item>
-  <item nodeId="node-0x3338ab0">
-    <command xml:space="preserve">take Andrew&apos;s drone</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
+  <item nodeId="node-40">
+    <command xml:space="preserve">take Andrew's drone</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x3338c30"/>
+      <child nodeId="node-41"/>
     </children>
   </item>
-  <item nodeId="node-0x3338c30">
+  <item nodeId="node-41">
     <command xml:space="preserve">l</command>
-    <result xml:space="preserve">Forest
-You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
-
-&gt;</result>
+    <result xml:space="preserve">Forest&#x000A;You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x3338db0"/>
+      <child nodeId="node-42"/>
     </children>
   </item>
-  <item nodeId="node-0x3338db0">
+  <item nodeId="node-42">
     <command xml:space="preserve">showme</command>
-    <result xml:space="preserve">Forest - room
-    yourself - person
-
-&gt;</result>
+    <result xml:space="preserve">Forest - room&#x000A;    yourself - person&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x3338f30"/>
+      <child nodeId="node-43"/>
     </children>
   </item>
-  <item nodeId="node-0x3338f30">
+  <item nodeId="node-43">
     <command xml:space="preserve">l</command>
-    <result xml:space="preserve">Forest
-You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
-
-&gt;</result>
+    <result xml:space="preserve">Forest&#x000A;You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x3376160">
+  <item nodeId="node-44">
     <command xml:space="preserve">Take andrew</command>
-    <result xml:space="preserve">Taken.
-
-&gt;</result>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x33762e0"/>
+      <child nodeId="node-45"/>
     </children>
   </item>
-  <item nodeId="node-0x33762e0">
+  <item nodeId="node-45">
     <command xml:space="preserve">i</command>
-    <result xml:space="preserve">You are carrying:
-  Andrew
-
-&gt;</result>
+    <result xml:space="preserve">You are carrying:&#x000A;  Andrew&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x3376460"/>
+      <child nodeId="node-46"/>
     </children>
   </item>
-  <item nodeId="node-0x3376460">
+  <item nodeId="node-46">
     <command xml:space="preserve">drop andrew</command>
-    <result xml:space="preserve">Dropped.
-
-&gt;</result>
+    <result xml:space="preserve">Dropped.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x33765e0"/>
+      <child nodeId="node-47"/>
     </children>
   </item>
-  <item nodeId="node-0x33765e0">
+  <item nodeId="node-47">
     <command xml:space="preserve">l</command>
-    <result xml:space="preserve">Forest
-You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
-
-A low flying drone pokes out behind some green grass.
-
-You can also see Andrew here.
-
-&gt;</result>
+    <result xml:space="preserve">Forest&#x000A;You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.&#x000A;&#x000A;A low flying drone pokes out behind some green grass.&#x000A;&#x000A;You can also see Andrew here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x3376760"/>
+      <child nodeId="node-48"/>
     </children>
   </item>
-  <item nodeId="node-0x3376760">
+  <item nodeId="node-48">
     <command xml:space="preserve">x andrew</command>
-    <result xml:space="preserve">You see nothing special about Andrew.
-
-&gt;</result>
+    <result xml:space="preserve">You see nothing special about Andrew.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x33768e0">
+  <item nodeId="node-49">
     <command xml:space="preserve">take boulder</command>
-    <result xml:space="preserve">That&apos;s fixed in place.
-
-&gt;</result>
+    <result xml:space="preserve">That's fixed in place.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x3376a60"/>
-      <child nodeId="node-0x3376d60"/>
+      <child nodeId="node-50"/>
+      <child nodeId="node-52"/>
     </children>
   </item>
-  <item nodeId="node-0x3376a60">
+  <item nodeId="node-50">
     <command xml:space="preserve">take andrews drone</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x3376be0"/>
+      <child nodeId="node-51"/>
     </children>
   </item>
-  <item nodeId="node-0x3376be0">
-    <command xml:space="preserve">take andrew&apos;s drone</command>
-    <result xml:space="preserve">Taken.
-
-&gt;</result>
+  <item nodeId="node-51">
+    <command xml:space="preserve">take andrew's drone</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x3376d60">
+  <item nodeId="node-52">
     <command xml:space="preserve">l</command>
-    <result xml:space="preserve">Forest
-You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
-
-A low flying drone pokes out behind some green grass.
-
-Andrew&apos;s drone sits superior on a large boulder infront of the leaves.
-
-On the boulder is Invisible shield (closed) (in which is Andrew&apos;s drone).
-
-You can also see the cloud here.
-
-&gt;</result>
+    <result xml:space="preserve">Forest&#x000A;You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.&#x000A;&#x000A;A low flying drone pokes out behind some green grass.&#x000A;&#x000A;Andrew's drone sits superior on a large boulder infront of the leaves.&#x000A;&#x000A;On the boulder is Invisible shield (closed) (in which is Andrew's drone).&#x000A;&#x000A;You can also see the cloud here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x3376ee0"/>
+      <child nodeId="node-53"/>
     </children>
   </item>
-  <item nodeId="node-0x3376ee0">
+  <item nodeId="node-53">
     <command xml:space="preserve">i</command>
-    <result xml:space="preserve">You are carrying nothing.
-
-&gt;</result>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x33a0130">
-    <command xml:space="preserve">take Andrew&apos;s drone</command>
-    <result xml:space="preserve">Invisible shield isn&apos;t open.
-
-&gt;</result>
+  <item nodeId="node-54">
+    <command xml:space="preserve">take Andrew's drone</command>
+    <result xml:space="preserve">Invisible shield isn't open.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x33a02b0"/>
+      <child nodeId="node-55"/>
     </children>
   </item>
-  <item nodeId="node-0x33a02b0">
+  <item nodeId="node-55">
     <command xml:space="preserve">take invisible shield</command>
-    <result xml:space="preserve">That&apos;s fixed in place.
-
-&gt;</result>
+    <result xml:space="preserve">That's fixed in place.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x33a0430">
+  <item nodeId="node-56">
     <command xml:space="preserve">take drown</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x33a05b0"/>
+      <child nodeId="node-57"/>
     </children>
   </item>
-  <item nodeId="node-0x33a05b0">
+  <item nodeId="node-57">
     <command xml:space="preserve">take drown</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x33a0730"/>
+      <child nodeId="node-58"/>
     </children>
   </item>
-  <item nodeId="node-0x33a0730">
+  <item nodeId="node-58">
     <command xml:space="preserve">take drone</command>
-    <result xml:space="preserve">(the destroyer.)
- You deftly grab the palm sized drone, clean the blades, and toss it into your pocket.
-
-&gt;</result>
+    <result xml:space="preserve">(the destroyer.)&#x000A; You deftly grab the palm sized drone, clean the blades, and toss it into your pocket.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x33a08b0"/>
+      <child nodeId="node-59"/>
     </children>
   </item>
-  <item nodeId="node-0x33a08b0">
+  <item nodeId="node-59">
     <command xml:space="preserve">i</command>
-    <result xml:space="preserve">You are carrying:
-  a destroyer.
-
-&gt;</result>
+    <result xml:space="preserve">You are carrying:&#x000A;  a destroyer.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x33a0a30">
+  <item nodeId="node-60">
     <command xml:space="preserve">open Forest Barrier</command>
-    <result xml:space="preserve">It seems to be locked.
-
-&gt;</result>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x33a0bb0">
+  <item nodeId="node-61">
     <command xml:space="preserve">open Forest barrier</command>
-    <result xml:space="preserve">It seems to be locked.
-
-&gt;</result>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x33a0d30"/>
+      <child nodeId="node-62"/>
     </children>
   </item>
-  <item nodeId="node-0x33a0d30">
+  <item nodeId="node-62">
     <command xml:space="preserve">take drone</command>
-    <result xml:space="preserve">(the destroyer)
- You deftly grab the palm sized drone, clean the blades, and toss it into your pocket.
-
-&gt;</result>
+    <result xml:space="preserve">(the destroyer)&#x000A; You deftly grab the palm sized drone, clean the blades, and toss it into your pocket.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x33a0eb0"/>
+      <child nodeId="node-63"/>
     </children>
   </item>
-  <item nodeId="node-0x33a0eb0">
+  <item nodeId="node-63">
     <command xml:space="preserve">open forest barrier</command>
-    <result xml:space="preserve">It seems to be locked.
-
-&gt;</result>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x33dd1c0"/>
+      <child nodeId="node-64"/>
     </children>
   </item>
-  <item nodeId="node-0x33dd1c0">
+  <item nodeId="node-64">
     <command xml:space="preserve">unlock forest barrier with drone</command>
-    <result xml:space="preserve">(the destroyer)
-You unlock Forest Barrier.
-
-&gt;</result>
+    <result xml:space="preserve">(the destroyer)&#x000A;You unlock Forest Barrier.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
     <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x33dd340">
-    <command xml:space="preserve">switch on button</command>
-    <result xml:space="preserve">You press the button and instantly vapourize into thin air.
-
-
-
-    *** The End ***
-
-
-
-
-Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
-&gt; </result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-  </item>
-  <item nodeId="node-0x33dd4c0">
-    <command xml:space="preserve">enter hoverboard</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x33dd640"/>
-    </children>
-  </item>
-  <item nodeId="node-0x33dd640">
-    <command xml:space="preserve">l</command>
-    <result xml:space="preserve">Forest
-You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
-
-A low flying drone pokes out behind some green grass.
-
- Who knows what would happen if this mysterious button were pressed. 
-
-Andrew&apos;s drone sits superior on a large boulder infront of the leaves. You look at the drone in envy and at yours with scorn.
-
-On the boulder is Invisible shield (closed) (in which is Andrew&apos;s drone).
-
-You can also see the cloud and Forest Barrier here.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x33dd7c0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x33dd7c0">
-    <command xml:space="preserve">enter hoverboard</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-  </item>
-  <item nodeId="node-0x33dd940">
-    <command xml:space="preserve">inside</command>
-    <result xml:space="preserve">
-The Forest Inn
-You can see hoverboard (empty) here.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x33ddac0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x33ddac0">
-    <command xml:space="preserve">enter hoverboard</command>
-    <result xml:space="preserve">You get into hoverboard.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x33ddc40"/>
-    </children>
-  </item>
-  <item nodeId="node-0x33ddc40">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x33dddc0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x33dddc0">
-    <command xml:space="preserve">w</command>
-    <result xml:space="preserve">
-Forest (in hoverboard)
-You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
-
-A low flying drone pokes out behind some green grass.
-
- Who knows what would happen if this mysterious button were pressed. 
-
-Andrew&apos;s drone sits superior on a large boulder infront of the leaves. You look at the drone in envy and at yours with scorn.
-
-On the boulder is Invisible shield (closed) (in which is Andrew&apos;s drone).
-
-You can also see the cloud and Forest Barrier here.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x33ddf40"/>
-    </children>
-  </item>
-  <item nodeId="node-0x33ddf40">
-    <command xml:space="preserve">get out</command>
-    <result xml:space="preserve">You get out of hoverboard.
-
-Forest
-You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
-
-A low flying drone pokes out behind some green grass.
-
- Who knows what would happen if this mysterious button were pressed. 
-
-Andrew&apos;s drone sits superior on a large boulder infront of the leaves. You look at the drone in envy and at yours with scorn.
-
-On the boulder is Invisible shield (closed) (in which is Andrew&apos;s drone).
-
-You can also see hoverboard (empty), the cloud and Forest Barrier here.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x341f1a0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x341f1a0">
-    <command xml:space="preserve">get in</command>
-    <result xml:space="preserve">You get into hoverboard.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x341f320"/>
-    </children>
-  </item>
-  <item nodeId="node-0x341f320">
-    <command xml:space="preserve">get out</command>
-    <result xml:space="preserve">You get out of hoverboard.
-
-Forest
-You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
-
-A low flying drone pokes out behind some green grass.
-
- Who knows what would happen if this mysterious button were pressed. 
-
-Andrew&apos;s drone sits superior on a large boulder infront of the leaves. You look at the drone in envy and at yours with scorn.
-
-On the boulder is Invisible shield (closed) (in which is Andrew&apos;s drone).
-
-You can also see hoverboard (empty), the cloud and Forest Barrier here.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x341f4a0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x341f4a0">
-    <command xml:space="preserve">get on</command>
-    <result xml:space="preserve">You get into hoverboard.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-  </item>
-  <item nodeId="node-0x341f620">
-    <command xml:space="preserve">get in hoverboard</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x341f7a0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x341f7a0">
-    <command xml:space="preserve">w</command>
-    <result xml:space="preserve">
-Forest Lake
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x341f920"/>
-    </children>
-  </item>
-  <item nodeId="node-0x341f920">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">
-Forest
-You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
-
-A low flying drone pokes out behind some green grass.
-
- Who knows what would happen if this mysterious button were pressed. 
-
-Andrew&apos;s drone sits superior on a large boulder infront of the leaves. You look at the drone in envy and at yours with scorn.
-
-On the boulder is Invisible shield (closed) (in which is Andrew&apos;s drone).
-
-You can also see the cloud and Forest Barrier here.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x341faa0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x341faa0">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">
-The Forest Inn
-You can see hoverboard (empty) here.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x341fc20"/>
-    </children>
-  </item>
-  <item nodeId="node-0x341fc20">
-    <command xml:space="preserve">get in</command>
-    <result xml:space="preserve">The hoverboard sinks ever-so-slightly under  your weight and you feel the vibration of the engine under your feet.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-  </item>
-  <item nodeId="node-0x341fda0">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">
-The Forest Inn
-You can see hoverboard (empty) and Jezebel here.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-  </item>
-  <item nodeId="node-0x341ff20">
-    <command xml:space="preserve">hit adam</command>
-    <result xml:space="preserve">Violence isn&apos;t the answer to this one.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x346c170"/>
-    </children>
-  </item>
-  <item nodeId="node-0x346c170">
-    <command xml:space="preserve">talk</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x346c2f0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x346c2f0">
-    <command xml:space="preserve">talk to adam</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x346c470"/>
-    </children>
-  </item>
-  <item nodeId="node-0x346c470">
-    <command xml:space="preserve">jump on adam</command>
-    <result xml:space="preserve">I only understood you as far as wanting to jump.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x346c5f0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x346c5f0">
-    <command xml:space="preserve">hit</command>
-    <result xml:space="preserve">What do you want to hit?
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x346c770"/>
-    </children>
-  </item>
-  <item nodeId="node-0x346c770">
-    <command xml:space="preserve">ground</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x346c8f0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x346c8f0">
-    <command xml:space="preserve">hit boulder</command>
-    <result xml:space="preserve">Violence isn&apos;t the answer to this one.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x346ca70"/>
-    </children>
-  </item>
-  <item nodeId="node-0x346ca70">
-    <command xml:space="preserve">hit bo</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x346cbf0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x346cbf0">
-    <command xml:space="preserve">take drown</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x346cd70"/>
-    </children>
-  </item>
-  <item nodeId="node-0x346cd70">
-    <command xml:space="preserve">take drone</command>
-    <result xml:space="preserve">(the destroyer)
- You deftly grab the palm sized drone, clean the blades, and toss it into your pocket.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x346cef0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x346cef0">
-    <command xml:space="preserve">throw drone</command>
-    <result xml:space="preserve">(the destroyer)
-You discard the abused drone to the ground like a used facial tissue.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34951c0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34951c0">
-    <command xml:space="preserve">kick drone</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x3495340"/>
-    </children>
-  </item>
-  <item nodeId="node-0x3495340">
-    <command xml:space="preserve">ask</command>
-    <result xml:space="preserve">What do you want to ask Adam for?
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34954c0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34954c0">
-    <command xml:space="preserve">life</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x3495640"/>
-    </children>
-  </item>
-  <item nodeId="node-0x3495640">
-    <command xml:space="preserve">ask adam for life</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34957c0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34957c0">
-    <command xml:space="preserve">i</command>
-    <result xml:space="preserve">You are carrying nothing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x3495940"/>
-    </children>
-  </item>
-  <item nodeId="node-0x3495940">
-    <command xml:space="preserve">l</command>
-    <result xml:space="preserve">Forest
-You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
-
- Who knows what would happen if this mysterious button were pressed. 
-
-Andrew&apos;s drone sits superior on a large boulder infront of the leaves. You look at the drone in envy and at yours with scorn.
-
-On the boulder is Invisible shield (closed) (in which is Andrew&apos;s drone).
-
-You can also see a destroyer, the cloud, Forest Barrier and Adam here.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x3495ac0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x3495ac0">
-    <command xml:space="preserve">x drone</command>
-    <result xml:space="preserve">(the destroyer)
-Upon further examination, you notice that it&apos;s struggling to stay in the air. You should examine it further.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x3495c40"/>
-    </children>
-  </item>
-  <item nodeId="node-0x3495c40">
-    <command xml:space="preserve">x drone</command>
-    <result xml:space="preserve">(the destroyer)
-Now that you look at it again, you can see clearly that it has a thick transparent layer of slime on its blades; a nasty looking slime, at that.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x3495dc0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x3495dc0">
-    <command xml:space="preserve">clean drone</command>
-    <result xml:space="preserve">(the destroyer)
-You rub the destroyer.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x3495f40"/>
-    </children>
-  </item>
-  <item nodeId="node-0x3495f40">
-    <command xml:space="preserve">x drone</command>
-    <result xml:space="preserve">(the destroyer)
-Now that you look at it again, you can see clearly that it has a thick transparent layer of slime on its blades; a nasty looking slime, at that.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34d11a0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34d11a0">
-    <command xml:space="preserve">clean adam</command>
-    <result xml:space="preserve">Adam might not like that.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34d1320"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34d1320">
-    <command xml:space="preserve">shout</command>
-    <result xml:space="preserve">I didn&apos;t understand that sentence.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34d14a0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34d14a0">
-    <command xml:space="preserve">take</command>
-    <result xml:space="preserve">What do you want to take?
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34d1620"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34d1620">
-    <command xml:space="preserve">shield</command>
-    <result xml:space="preserve">That&apos;s fixed in place.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34d17a0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34d17a0">
-    <command xml:space="preserve">take gate</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34d1920"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34d1920">
-    <command xml:space="preserve">take barrier</command>
-    <result xml:space="preserve">That&apos;s fixed in place.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34d1aa0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34d1aa0">
-    <command xml:space="preserve">take drone</command>
-    <result xml:space="preserve">(the destroyer)
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34d1c20"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34d1c20">
-    <command xml:space="preserve">i</command>
-    <result xml:space="preserve">You are carrying:
-  a destroyer
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34d1da0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34d1da0">
-    <command xml:space="preserve">l</command>
-    <result xml:space="preserve">Forest
-You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
-
- Who knows what would happen if this mysterious button were pressed. 
-
-Andrew&apos;s drone sits superior on a large boulder infront of the leaves. You look at the drone in envy and at yours with scorn.
-
-On the boulder is Invisible shield (closed) (in which is Andrew&apos;s drone).
-
-You can also see the cloud, Forest Barrier and Adam here.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34d1f20"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34d1f20">
-    <command xml:space="preserve">take cloud</command>
-    <result xml:space="preserve">That&apos;s fixed in place.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34fa110"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34fa110">
-    <command xml:space="preserve">take boulder</command>
-    <result xml:space="preserve">That&apos;s fixed in place.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34fa290"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34fa290">
-    <command xml:space="preserve">open shield</command>
-    <result xml:space="preserve">It seems to be locked.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34fa410"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34fa410">
-    <command xml:space="preserve">take adam&apos;s drone</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34fa590"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34fa590">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">
-The Forest Inn
-You can see hoverboard (empty) and Jezebel here.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34fa710"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34fa710">
-    <command xml:space="preserve">take Jezebel</command>
-    <result xml:space="preserve">I don&apos;t suppose Jezebel would care for that.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x34fa890"/>
-    </children>
-  </item>
-  <item nodeId="node-0x34fa890">
-    <command xml:space="preserve">take hoverboard</command>
-    <result xml:space="preserve">That&apos;s fixed in place.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-  </item>
-  <item nodeId="node-0x7f5a340ca770">
-    <command xml:space="preserve">ask adam for gift</command>
-    <result xml:space="preserve">Adam has better things to do.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a340ca8f0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a340ca8f0">
-    <command xml:space="preserve">ask adam for gif</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a340caa70"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a340caa70">
-    <command xml:space="preserve">take adam&apos;s gift</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a340cabf0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a340cabf0">
-    <command xml:space="preserve">take gift</command>
-    <result xml:space="preserve">That seems to belong to Adam.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-  </item>
-  <item nodeId="node-0x7f5a3421e340">
-    <command xml:space="preserve">take dagger, dildo, rope</command>
-    <result xml:space="preserve">dagger: Taken.
-dildo: Taken.
-rope: Taken.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a3421e4c0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a3421e4c0">
-    <command xml:space="preserve">take drone</command>
-    <result xml:space="preserve">(the destroyer)
-You&apos;re carrying too many things already.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a3421e640"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a3421e640">
-    <command xml:space="preserve">drop all</command>
-    <result xml:space="preserve">rope: Dropped.
-dildo: Dropped.
-dagger: Dropped.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a3421e7c0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a3421e7c0">
-    <command xml:space="preserve">take all</command>
-    <result xml:space="preserve">dagger: Taken.
-dildo: Taken.
-rope: Taken.
-destroyer: You&apos;re carrying too many things already.
-self destruct button: You&apos;re carrying too many things already.
-gift: That seems to belong to Adam.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a3421e940"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a3421e940">
-    <command xml:space="preserve">drop all</command>
-    <result xml:space="preserve">rope: Dropped.
-dildo: Dropped.
-dagger: Dropped.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a3421eac0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a3421eac0">
-    <command xml:space="preserve">showme</command>
-    <result xml:space="preserve">Forest - room
-    dagger
-    dildo
-    rope
-    yourself - person
-    destroyer
-    boulder - supporter
-        Invisible shield - transparent locked container
-            Andrew&apos;s drone
-        self destruct button - device
-    cloud - supporter
-    Forest Barrier - locked door
-    Adam - man
-        gift
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a3421ec40"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a3421ec40">
-    <command xml:space="preserve">take button</command>
-    <result xml:space="preserve">Taken.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a3421edc0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a3421edc0">
-    <command xml:space="preserve">i</command>
-    <result xml:space="preserve">You are carrying:
-  a self destruct button
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a3421ef40"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a3421ef40">
-    <command xml:space="preserve">push button</command>
-    <result xml:space="preserve">Nothing obvious happens.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a343ca150"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a343ca150">
-    <command xml:space="preserve">i</command>
-    <result xml:space="preserve">You are carrying:
-  a self destruct button
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a343ca2d0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a343ca2d0">
-    <command xml:space="preserve">switch off button</command>
-    <result xml:space="preserve">That&apos;s already off.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a343ca450"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a343ca450">
-    <command xml:space="preserve">switch on button</command>
-    <result xml:space="preserve">You press the button and instantly vapourize into thin air.
-
-
-
-    *** The End ***
-
-
-
-
-Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
-&gt; </result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a340ca170"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a340ca170">
-    <command xml:space="preserve">quit</command>
-    <result xml:space="preserve">
-[ The game has finished ]
-</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-  </item>
-  <item nodeId="node-0x7f5a343ca750">
-    <command xml:space="preserve">x forest fiend</command>
-    <result xml:space="preserve">You see nothing special about the forest fiend.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a343ca8d0"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a343ca8d0">
-    <command xml:space="preserve">take all</command>
-    <result xml:space="preserve">destroyer:  You deftly grab the palm sized drone, clean the blades, and toss it into your pocket.
-dagger: Taken.
-dildo: Taken.
-rope: You&apos;re carrying too many things already.
-self destruct button: You&apos;re carrying too many things already.
-gift: That seems to belong to Adam.
-HIV: That seems to belong to the forest fiend.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a343caa50"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a343caa50">
+  <item nodeId="node-65">
     <command xml:space="preserve">stab forest fiend</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
+    <result xml:space="preserve">You stab the forest fiend. The blood pours down the dagger and onto your hand.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-66"/>
+    </children>
   </item>
-  <item nodeId="node-0x7f5a343cabd0">
+  <item nodeId="node-66">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  HIV&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-67"/>
+    </children>
+  </item>
+  <item nodeId="node-67">
+    <command xml:space="preserve">x drone</command>
+    <result xml:space="preserve">(the destroyer)&#x000A;Upon further examination, you notice that it's struggling to stay in the air. You should examine it further.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-68"/>
+    </children>
+  </item>
+  <item nodeId="node-68">
+    <command xml:space="preserve">x</command>
+    <result xml:space="preserve">(HIV)&#x000A;You see nothing special about HIV.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-69"/>
+    </children>
+  </item>
+  <item nodeId="node-69">
+    <command xml:space="preserve">x drone</command>
+    <result xml:space="preserve">(the destroyer)&#x000A;Now that you look at it again, you can see clearly that it has a thick transparent layer of slime on its blades; a nasty looking slime, at that.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-70">
+    <command xml:space="preserve">x drone</command>
+    <result xml:space="preserve">(the destroyer)&#x000A;Upon further examination, you notice that it's struggling to stay in the air. You should examine it further.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-71"/>
+    </children>
+  </item>
+  <item nodeId="node-71">
+    <command xml:space="preserve">is the drone flying?</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-72"/>
+    </children>
+  </item>
+  <item nodeId="node-72">
+    <command xml:space="preserve">ground drone</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-73">
+    <command xml:space="preserve">loot</command>
+    <result xml:space="preserve">What do you want to loot?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-74"/>
+    </children>
+  </item>
+  <item nodeId="node-74">
+    <command xml:space="preserve">loot fiend</command>
+    <result xml:space="preserve">You edge closer to the fiend but retreat once you see its fangs glimmering in the moonlight.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-75"/>
+    </children>
+  </item>
+  <item nodeId="node-75">
+    <command xml:space="preserve">stab fiend</command>
+    <result xml:space="preserve">You stab the forest fiend. The blood pours down the dagger and onto your hand.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-76"/>
+    </children>
+  </item>
+  <item nodeId="node-76">
+    <command xml:space="preserve">loot fiend</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-77"/>
+    </children>
+  </item>
+  <item nodeId="node-77">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  fur (being worn)&#x000A;  HIV&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-78">
+    <command xml:space="preserve">level</command>
+    <result xml:space="preserve">You must supply a noun.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-79"/>
+      <child nodeId="node-80"/>
+    </children>
+  </item>
+  <item nodeId="node-79">
+    <command xml:space="preserve">do level</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-80">
+    <command xml:space="preserve">my level</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-81"/>
+    </children>
+  </item>
+  <item nodeId="node-81">
+    <command xml:space="preserve">loot</command>
+    <result xml:space="preserve">What do you want to loot?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-82"/>
+    </children>
+  </item>
+  <item nodeId="node-82">
+    <command xml:space="preserve">loot</command>
+    <result xml:space="preserve">What do you want to loot?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-83"/>
+    </children>
+  </item>
+  <item nodeId="node-83">
     <command xml:space="preserve">stab</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
+    <result xml:space="preserve">What do you want to stab?&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-84">
+    <command xml:space="preserve">my level</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
     <children>
-      <child nodeId="node-0x7f5a343cad50"/>
+      <child nodeId="node-85"/>
     </children>
   </item>
-  <item nodeId="node-0x7f5a343cad50">
-    <command xml:space="preserve">stab forest</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
+  <item nodeId="node-85">
+    <command xml:space="preserve">level</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
+    <changed>NO</changed>
     <children>
-      <child nodeId="node-0x7f5a343caed0"/>
+      <child nodeId="node-86"/>
     </children>
   </item>
-  <item nodeId="node-0x7f5a343caed0">
-    <command xml:space="preserve">stab forest fiend</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
+  <item nodeId="node-86">
+    <command xml:space="preserve">player levle</command>
+    <result xml:space="preserve">I didn't understand that sentence.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
+    <changed>NO</changed>
     <children>
-      <child nodeId="node-0x7f5a34602160"/>
+      <child nodeId="node-87"/>
     </children>
   </item>
-  <item nodeId="node-0x7f5a34602160">
-    <command xml:space="preserve">Stab forest fiend</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
+  <item nodeId="node-87">
+    <command xml:space="preserve">player level</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
+    <changed>NO</changed>
     <children>
-      <child nodeId="node-0x7f5a346022e0"/>
+      <child nodeId="node-88"/>
     </children>
   </item>
-  <item nodeId="node-0x7f5a346022e0">
-    <command xml:space="preserve">stab</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
+  <item nodeId="node-88">
+    <command xml:space="preserve">stab adam</command>
+    <result xml:space="preserve">&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-  </item>
-  <item nodeId="node-0x7f5a34602760">
-    <command xml:space="preserve">stab forest fiend</command>
-    <result xml:space="preserve">You stab the forest fiend. The blood pours down the dagger and onto your hand.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-  </item>
-  <item nodeId="node-0x7f5a346028e0">
-    <command xml:space="preserve">wear golden</command>
-    <result xml:space="preserve">(first taking Golden amulet)
-You put on Golden amulet.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
+    <changed>NO</changed>
     <children>
-      <child nodeId="node-0x7f5a34602460"/>
+      <child nodeId="node-89"/>
     </children>
   </item>
-  <item nodeId="node-0x7f5a34602460">
-    <command xml:space="preserve">i</command>
-    <result xml:space="preserve">You are carrying:
-  Golden amulet (being worn)
-
-&gt;</result>
+  <item nodeId="node-89">
+    <command xml:space="preserve">loot adam</command>
+    <result xml:space="preserve">You edge closer to the fiend but retreat once you see its fangs glimmering in the moonlight.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>NO</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-  </item>
-  <item nodeId="node-0x7f5a34602a60">
-    <command xml:space="preserve">i</command>
-    <result xml:space="preserve">You are carrying nothing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
+    <changed>NO</changed>
     <children>
-      <child nodeId="node-0x7f5a346025e0"/>
+      <child nodeId="node-90"/>
     </children>
   </item>
-  <item nodeId="node-0x7f5a346025e0">
+  <item nodeId="node-90">
+    <command xml:space="preserve">adam level</command>
+    <result xml:space="preserve">Level one.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-91"/>
+    </children>
+  </item>
+  <item nodeId="node-91">
+    <command xml:space="preserve">player level</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-92">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">The Forest Inn&#x000A;You see a woman in the corner of your eye wearing corset and holding thick wad of cash and blood stained knife.&#x000A;&#x000A;You can also see hoverboard (empty) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-93"/>
+    </children>
+  </item>
+  <item nodeId="node-93">
+    <command xml:space="preserve">take al</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-94"/>
+    </children>
+  </item>
+  <item nodeId="node-94">
     <command xml:space="preserve">take all</command>
-    <result xml:space="preserve">destroyer:  You deftly grab the palm sized drone, clean the blades, and toss it into your pocket.
-dagger: Taken.
-dildo: Taken.
-rope: You&apos;re carrying too many things already.
-Golden amulet: You&apos;re carrying too many things already.
-self destruct button: You&apos;re carrying too many things already.
-gift: That seems to belong to Adam.
-HIV: That seems to belong to the forest fiend.
-
-&gt;</result>
+    <result xml:space="preserve">thick wad of cash: That seems to belong to Jezebel.&#x000A;blood stained knife: That seems to belong to Jezebel.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
+    <changed>NO</changed>
     <children>
-      <child nodeId="node-0x7f5a34602be0"/>
+      <child nodeId="node-95"/>
     </children>
   </item>
-  <item nodeId="node-0x7f5a34602be0">
-    <command xml:space="preserve">drop all</command>
-    <result xml:space="preserve">dildo: Dropped.
-dagger: Dropped.
-destroyer: You discard the abused drone to the ground like a used facial tissue.
-
-&gt;</result>
+  <item nodeId="node-95">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
-    <children>
-      <child nodeId="node-0x7f5a34602d60"/>
-    </children>
-  </item>
-  <item nodeId="node-0x7f5a34602d60">
-    <command xml:space="preserve">drop magic backpack</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="0">YES</temporary>
-    <annotation xml:space="preserve"></annotation>
+    <changed>NO</changed>
   </item>
 </Skein>
