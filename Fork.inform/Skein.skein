@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Skein rootNode="node-0x25f6710" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Inform 7</generator>
-  <activeNode nodeId="node-0x7f0c3c0df7a0"/>
+  <activeNode nodeId="node-0x7f0c4044f2d0"/>
   <item nodeId="node-0x25f6710">
     <command xml:space="preserve">Fork</command>
     <result xml:space="preserve">
@@ -16,6 +16,8 @@ Forest
 You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
 
 A low flying drone pokes out behind some green grass.
+
+ Who knows what would happen if this mysterious button were pressed. 
 
 Andrew&apos;s drone sits superior on a large boulder infront of the leaves. You look at the drone in envy and at yours with scorn.
 
@@ -42,6 +44,8 @@ You can also see the cloud and Forest Barrier here.
       <child nodeId="node-0x2dd4ac0"/>
       <child nodeId="node-0x7f0c3c0df1a0"/>
       <child nodeId="node-0x7f0c3c0df620"/>
+      <child nodeId="node-0x7f0c3c0dfda0"/>
+      <child nodeId="node-0x7f0c3c0dff20"/>
     </children>
   </item>
   <item nodeId="node-0x25f6890">
@@ -51,6 +55,14 @@ You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth 
 
 A low flying drone pokes out behind some green grass.
 
+ Who knows what would happen if this mysterious button were pressed. 
+
+Andrew&apos;s drone sits superior on a large boulder infront of the leaves. You look at the drone in envy and at yours with scorn.
+
+On the boulder is Invisible shield (closed) (in which is Andrew&apos;s drone).
+
+You can also see the cloud and Forest Barrier here.
+
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
     <played>NO</played>
@@ -59,6 +71,7 @@ A low flying drone pokes out behind some green grass.
     <annotation xml:space="preserve"></annotation>
     <children>
       <child nodeId="node-0x25f6a10"/>
+      <child nodeId="node-0x7f0c3c0df920"/>
     </children>
   </item>
   <item nodeId="node-0x25f6a10">
@@ -360,6 +373,46 @@ You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth 
   <item nodeId="node-0x2d04b80">
     <command xml:space="preserve">ask strength</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7f0c3c0df920">
+    <command xml:space="preserve">take button</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7f0c3c0dfaa0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7f0c3c0dfaa0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a self destruct button
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7f0c3c0dfc20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7f0c3c0dfc20">
+    <command xml:space="preserve">switch on button</command>
+    <result xml:space="preserve">You press the button and instantly vapourize into thin air.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -877,7 +930,7 @@ You can also see the cloud here.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
@@ -892,7 +945,7 @@ You can also see the cloud here.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
@@ -906,7 +959,7 @@ You can also see the cloud here.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
@@ -918,6 +971,75 @@ You can also see the cloud here.
     <command xml:space="preserve">unlock forest barrier with drone</command>
     <result xml:space="preserve">(the destroyer)
 You unlock Forest Barrier.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7f0c3c0dfda0">
+    <command xml:space="preserve">switch on button</command>
+    <result xml:space="preserve">You press the button and instantly vapourize into thin air.
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x7f0c3c0dff20">
+    <command xml:space="preserve">enter hoverboard</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7f0c4044f150"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7f0c4044f150">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Forest
+You stand in a clearing in the deep jungle. Obscured by centuries of overgrowth and dim sunlight is a ruined temple of some sort. Whatever details there may have been on the stone blocks have long since been worn away. There is a single, solitary entryway leading downward.
+
+A low flying drone pokes out behind some green grass.
+
+ Who knows what would happen if this mysterious button were pressed. 
+
+Andrew&apos;s drone sits superior on a large boulder infront of the leaves. You look at the drone in envy and at yours with scorn.
+
+On the boulder is Invisible shield (closed) (in which is Andrew&apos;s drone).
+
+You can also see the cloud and Forest Barrier here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7f0c4044f2d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7f0c4044f2d0">
+    <command xml:space="preserve">enter hoverboard</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>

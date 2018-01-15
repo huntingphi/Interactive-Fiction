@@ -10,3 +10,9 @@ Middle-Campus is a region. Lower-Campus is a region.
 Campus is a region. Middle-Campus, Lower-Campus and Upper-campus are in Campus. A boulder is in the forest. "Andrew's drone sits superior on a large boulder infront of the leaves. You look at the drone in envy and at yours with scorn." In the forest is a supporter called the cloud. Andrew's drone is fixed in place. Invisible shield is an openable transparent container. Andrew's drone is in invisible shield. Invisible shield is fixed in place. Invisible shield is locked. Invisible shield is on the boulder. The printed name of the drone is "destroyer"
 
 Forest Barrier is a door. It is southwest of the forest. Forest Barrier is locked. The drone unlocks Forest Barrier.
+
+The self destruct button is a device on the boulder. "[if switched off] Who knows what would happen if this mysterious button were pressed. [otherwise] The button seems to be pressed in."
+After switching on the button:
+say "You press the button and instantly vapourize into thin air." ; end the story.
+
+Hoverboard is a container. Hoverboard is enterable.
